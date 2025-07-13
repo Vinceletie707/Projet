@@ -1,12 +1,12 @@
 {
   "UTILISATEURS": {
     "Test": {
-      "status": "active",
+      "status": "inactive",
       "date_start": "2025-06-29 17:39:00",
       "expiration": "2025-07-29 20:30:00",
-      "countdown_paused": false,
+      
       "android_id": "125a44f21a37ebfd7b5604595b9af637",
-      "max_usernames" : 150
+      "max_usernames" : 45
     },
     "autre_id": {
       "status": "inactive",
