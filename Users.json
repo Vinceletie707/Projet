@@ -8,6 +8,14 @@
       "android_id": "125a44f21a37ebfd7b5604595b9af637",
       "max_usernames" : 150
     },
+    "projet2": {
+      "status": "active",
+      "date_start": "2026-04-12 00:00:00",
+      "expiration": "2026-04-30 20:00:00",
+      "solde_affiliation": 150000,
+      "android_id": "7f63b4b62b990bdab59fd1aa55b5f5b0",
+      "max_usernames" : 150
+    },
     "autre_id": {
       "status": "inactive",
       "date_start": "2025-06-01 00:00:00",
