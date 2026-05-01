@@ -23,5 +23,12 @@
       "countdown_paused": true,
       "android_id": ""
     }
+    "Ramora76767": {
+      "status": "active",
+      "date_start": "2026-01-01 00:00:00",
+      "expiration": "2026-02-01 23:59:00",
+      "countdown_paused": true,
+      "android_id": ""
+    }
   }
 }
